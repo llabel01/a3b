@@ -1,0 +1,20 @@
+Set {
+        font-family: "Georgia";
+}
+
+Song {
+        white-space: pre-line;
+        background-color: rgb(143,193,227, 0.4);
+        margin: 10px;
+        display: block;
+        color: #15244C ;
+}
+
+Title {
+        font-weight: bold;
+        color: #000000;
+}
+
+Artist {
+        font-weight: bold;
+}

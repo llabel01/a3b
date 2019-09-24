@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Set>
+
+        <Song>
+                <Title>Sisyphus</Title>
+                <Artist>Andrew Bird</Artist>
+                <Genre>Alternative / Indie</Genre>
+                <Year>2019</Year>
+        </Song>
+
+        <Song>
+                <Title>Pulaski at Night</Title>
+                <Artist>Andrew Bird</Artist>
+                <Genre>Alternative / Indie</Genre>
+                <Year>2016</Year>
+        </Song>
+
+        <Song>
+                <Title>Come Together</Title>
+                <Artist>The Beatles</Artist>
+                <Genre>Rock</Genre>
+                <Year>1969</Year>
+        </Song>
+
+        <Song>
+                <Title>Dark Necessities</Title>
+                <Artist>Red Hot Chili Peppers</Artist>
+                <Genre>Rock</Genre>
+                <Year>2016</Year>
+        </Song>
+
+        <Song>
+                <Title>Do I Wanna Know?</Title>
+                <Artist>Arctic Monkeys</Artist>
+                <Genre>Rock</Genre>
+                <Year>2013</Year>
+        </Song>
+
+        <Song>
+                <Title>You Know I'm Not Good</Title>
+                <Artist>Amy Winehouse</Artist>
+                <Genre>Soul</Genre>
+                <Year>2006</Year>
+        </Song>
+
+        <Song>
+                <Title>Valerie</Title>
+                <Artist>Amy Winehouse</Artist>
+                <Genre>Soul</Genre>
+                <Year>2006</Year>
+        </Song>
+
+        <Song>
+                <Title>There She Goes</Title>
+                <Artist>The La's</Artist>
+                <Genre>Rock</Genre>
+                <Year>1990</Year>
+        </Song>
+
+        <Song>
+                <Title>The Longest Time</Title>
+                <Artist>Billy Joel</Artist>
+                <Genre>Pop</Genre>
+                <Year>1983</Year>
+        </Song>
+
+</Set>
